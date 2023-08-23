@@ -1,0 +1,103 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_3487B5D0_2307_F7E2_41B6_EFB6949AC35B.source = http://nenutricao.com.br
+LinkBehaviour_E33554DB_C209_2ADB_41DA_A035496B5EA4.source = https://wa.link/6xttjw
+LinkBehaviour_A7A568A5_8D8C_3424_41D4_0AADE2F95AF1.source = https://wa.me/5561992715715?text=Ol%C3%A1,+eu+estava+no+site+e+gostaria+de+agendar+uma+consulta
+LinkBehaviour_E3C05C45_C208_D92E_41DA_4B523D3D8B50.source = https://wa.me/5561992715715?text=Ol%C3%A1,+eu+estava+no+site+e+gostaria+de+agendar+uma+consulta
+LinkBehaviour_A7C73D11_8D9C_2DFC_41DB_C223243839A7.source = https://wa.me/5561992715715?text=Ol%C3%A1,+eu+estava+no+site+e+gostaria+de+agendar+uma+consulta
+LinkBehaviour_A1ED29F9_8D8C_F42C_41CE_8E89D7A45E54.source = https://wa.me/5561992715715?text=Ol%C3%A1,+eu+estava+no+site+e+gostaria+de+agendar+uma+consulta
+WebFrame_A56BEC6D_8D84_2C24_41E1_9F7905E877DD.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d479.85659190040735!2d-47.913177357917014!3d-15.811717248156933!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a3aa4c1f5b725%3A0x614cdd076de478df!2zU2FsdXRlIE51dHJpw6fDo3A!5e0!3m2!1spt-BR!2sbr!4v1692819927415!5m2!1spt-BR!2sbr
+WebFrame_A521021F_8D8C_37E4_41D3_AAB5C1FB642F.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d479.85659190040735!2d-47.913177357917014!3d-15.811717248156933!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a3aa4c1f5b725%3A0x614cdd076de478df!2zU2FsdXRlIE51dHJpw6fDo3A!5e0!3m2!1spt-BR!2sbr!4v1692819927415!5m2!1spt-BR!2sbr
+LinkBehaviour_A62EDBFF_8D8C_3424_41E1_026CE3235B71.source = https://www.instagram.com/nenutricao/
+LinkBehaviour_A18FAA46_8D8C_1462_41DF_A40A9360DA41.source = https://www.instagram.com/nenutricao/
+LinkBehaviour_3C556AD3_2309_5DE6_416F_489603C53E6C.source = https://www.nenutricao.com.br/
+LinkBehaviour_3126F169_23D1_06FF_41AC_DD8D3F6D2616.source = https://www.nenutricao.com.br/#servicos
+LinkBehaviour_3A475113_23F3_0653_41B9_342532639435.source = https://www.nenutricao.com.br/ne-assessoria
+LinkBehaviour_3B020CA2_23F1_FE6D_41B4_B80FF335DCA0.source = https://www.nenutricao.com.br/ne-consulta
+LinkBehaviour_3B43D203_23F1_0A33_4199_F6FA8B9BC9FB.source = https://www.nenutricao.com.br/ne-mentoria
+LinkBehaviour_3AB66457_2306_B4EE_4167_C37646B2E732.source = https://www.youtube.com/@NEnutricao_esporte
+LinkBehaviour_3CC386D2_230A_D5E6_41BF_ED1598C12D8E.source = https://www.youtube.com/@NEnutricao_esporte
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_3B98432B_23CF_0A73_419E_7C0B2845752D.text = Consultórios
+HotspotPanoramaOverlayTextImage_0227FC28_2309_D4A2_41BF_B37251848421.text = Instruções
+HotspotPanoramaOverlayTextImage_309806B9_23D1_0A5F_41B4_D22B26BE26D8.text = Nossos Serviços
+HotspotPanoramaOverlayTextImage_3A6E6855_23F7_06D7_41A5_657174671CFC.text = Nossos serviços
+
+## Media
+
+### Audio
+audiores_354035FF_23D1_09D3_41BF_001C6D0499E6.mp3Url = media/audio_2ED6A5E5_23B1_09F6_4192_7516C1DCFE05_pt.mp3
+audiores_358CCBFC_23D1_F9D5_41AA_A18E8EE63CA2.mp3Url = media/audio_349A54C0_23D1_0E2D_41B8_426B0EDCD88C_pt.mp3
+
+### Image
+imlevel_3975C82E_23D1_0675_41BC_B29D89351A17.url = media/panorama_2F5ABDA7_22FF_77AE_4194_EE40AF9B600E_HS_pt94g3pq_pt.png
+imlevel_35F723BE_23D1_0A55_4191_BF091F032D22.url = media/panorama_2FC2A346_22FF_ACEE_41B5_9B2C6D3E243F_HS_ornz6nun_pt.png
+imlevel_07DF9EB1_2309_B5A2_41B3_6BE299D7C806.url = media/panorama_2FC2EFCA_22FF_F3E7_41A0_D6903C51428A_HS_c29ttk5o_pt.png
+imlevel_3A93B6DF_23F1_0BD4_41B4_B4475029E37D.url = media/panorama_36CDF5B7_2309_57AE_41BC_3E66B255BFBF_HS_of1x37zn_pt.png
+
+### Title
+panorama_2F5ABDA7_22FF_77AE_4194_EE40AF9B600E.label = Atendimento
+panorama_2FC2A346_22FF_ACEE_41B5_9B2C6D3E243F.label = Consultório 1
+panorama_2FC28324_22FF_ACA2_41B0_7B91FC4BBC6E.label = Consultório 2
+panorama_2FC26C69_22FF_74A2_41B0_6FBEE4181FAD.label = Consultório 3
+panorama_36CDF5B7_2309_57AE_41BC_3E66B255BFBF.label = Corredor
+panorama_2FC2EFCA_22FF_F3E7_41A0_D6903C51428A.label = Entrada
+panorama_2FB01E60_22FF_D4A3_41BC_9523DFD04B2D.label = Sala de Espera
+panorama_3FAB21BE_2319_EF9E_41B0_4D8AFCBD171F.label = corredor-edit-final
+
+## Skin
+
+### Button
+Button_A7C4B14E_8D8C_1464_41CD_C3C8113ECA66.label = Agenamento via whatsapp
+Button_E3C38C44_C208_D92E_41A9_1C1D307D0A73.label = Atendimento whatsapp
+Button_E337A4DA_C209_2925_41E3_1109ACE40430.label = fale conosco via whatsapp
+
+### Image
+Image_833AAAAC_8D84_3424_41D7_8C869346423B_mobile.url = skin/Image_833AAAAC_8D84_3424_41D7_8C869346423B_mobile_pt.png
+Image_833AAAAC_8D84_3424_41D7_8C869346423B.url = skin/Image_833AAAAC_8D84_3424_41D7_8C869346423B_pt.png
+Image_A7C5514E_8D8C_1464_41D6_CD417EC87F28.url = skin/Image_A7C5514E_8D8C_1464_41D6_CD417EC87F28_pt.png
+Image_AA974A98_8DBB_F4EC_41E0_7211BF414FB6.url = skin/Image_AA974A98_8DBB_F4EC_41E0_7211BF414FB6_pt.png
+Image_AA977A98_8DBB_F4EC_41DD_F46FEB3F2307.url = skin/Image_AA977A98_8DBB_F4EC_41DD_F46FEB3F2307_pt.png
+Image_AAAB3DF5_8DBC_2C24_41CC_C85C4FD7E29F.url = skin/Image_AAAB3DF5_8DBC_2C24_41CC_C85C4FD7E29F_pt.png
+
+### Label
+Label_32A66686_230B_F46E_41B9_DD22E13A98AC.text = Tour Virtual 360º
+
+### Multiline Text
+HTMLText_A7D67C21_8D84_73DC_41D1_3290C30E7794.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.140000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:5.14vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.341534008683071vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.34vh;font-family:'Bebas Neue Bold';">Lista de fotos :</SPAN></SPAN></DIV></div>
+HTMLText_A7C4A14E_8D8C_1464_41C4_FF4EDA80D573.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.830000000000003vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.83vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="line-height:119%;text-align:left;font-size:6.7400000000000055vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.74vh;font-family:'Bebas Neue Bold';">Serviços</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.0390738060781484vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.04vh;font-family:'Bebas Neue Bold';"> - Consulta Nutricional</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.0390738060781484vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.04vh;font-family:'Bebas Neue Bold';"> - Mentoria Profissional</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.0390738060781484vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.04vh;font-family:'Bebas Neue Bold';"> - Assessoria Esportiva</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.72vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.720000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.72vh;font-family:'Bebas Neue Bold';"><B>Localização: </B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.720000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.72vh;font-family:'Bebas Neue Bold';">Endereço: Edifício Mix Park Sul – SGAS Quadra 910, Bloco D, Salas 244 e 246, Brasília – DF, 70390-100</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.720000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.72vh;font-family:'Bebas Neue Bold';"><B>contato: (61) </B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.720000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff0000;font-size:2.72vh;font-family:'Bebas Neue Bold';"><B>Buscamos sua bike em sua residência</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_E3C22C43_C208_D92A_41C3_74C7EF7C88E2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.830000000000003vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.83vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.000000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#006600;font-size:5vh;font-family:'Bebas Neue Bold';">NE Nutrição &amp; Esporte</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.48vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.500000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#006600;font-size:2.5vh;font-family:'Bebas Neue Bold';">Serviços</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.34375vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.34vh;font-family:'Candara';"><B>- Consulta Nutricional</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.34375vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.34vh;font-family:'Candara';"><B>- Mentoria Profissional</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.34375vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.34vh;font-family:'Candara';"><B>- Assessoria Esportiva</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.34375vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.34vh;font-family:'Arial CYR';"><B>Fale conosco: (61) 99271- 5715</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.34vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.34vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_E33724D9_C209_2927_41D0_E68E2611F6C9.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.830000000000003vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.83vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.000000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5vh;font-family:'Bebas Neue Bold';">Chicos Bike</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.48vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.500000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:2.5vh;font-family:'Bebas Neue Bold';">A melhor loja de Bicicletas do Guará</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.720000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.72vh;font-family:'Bebas Neue Bold';"><B>localização: </B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.34375vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.34vh;font-family:'Bebas Neue Bold';"><B>QI 1 ,bloco A ,loja 22, Guará I, Brasília - DF, 71020-250</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.720000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.72vh;font-family:'Bebas Neue Bold';"><B>contato: (61)3381-3985</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.720000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.72vh;font-family:'Bebas Neue Bold';"><B>98623-3328</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.720000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff0000;font-size:2.72vh;font-family:'Bebas Neue Bold';"><B>Buscamos sua bike em sua residência</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_A56BCC6D_8D84_2C24_4192_FC0733679C5F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.65625vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.66vh;font-family:'Bebas Neue Bold';"><B>Localização NE</B></SPAN></SPAN></DIV></div>
+HTMLText_A786D5FA_8D84_1C2D_41BB_D62C4820A56C.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.34375vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.34vh;font-family:'Oswald';"><B>LISTA DE FOTOS</B></SPAN></SPAN></DIV></div>
+
+### Tooltip
+IconButton_81DCA975_8D7C_1427_41D7_6674C73E7286_mobile.toolTip = ACTIVATE VR MODE (MOBILE ONLY)
+IconButton_81DCA975_8D7C_1427_41D7_6674C73E7286.toolTip = ACTIVATE VR MODE (MOBILE ONLY)
+IconButton_81DAB979_8D7C_142F_41C6_49F15FE15FF0.toolTip = Localização
+IconButton_81DAE978_8D7C_142D_41B8_C62E14904762_mobile.toolTip = PANORAMA LIST
+IconButton_81DAE978_8D7C_142D_41B8_C62E14904762.toolTip = PANORAMA LIST
+IconButton_81DAF978_8D7C_142D_41CC_7C7BF6831491_mobile.toolTip = PHOTO ALBUM
+IconButton_9E778C68_8D84_EC2C_41DC_B8A90C02CF95_mobile.toolTip = PHOTO ALBUM
+IconButton_9E778C68_8D84_EC2C_41DC_B8A90C02CF95.toolTip = PHOTO ALBUM
+IconButton_813E1831_8E48_D6D7_41AF_D9ACADA68C5E_mobile.toolTip = PHOTO ALBUM
+IconButton_81DAF978_8D7C_142D_41CC_7C7BF6831491.toolTip = PHOTO ALBUM
+IconButton_8159B125_8E48_B6FF_41D4_3163758A3953.toolTip = PHOTO ALBUM
+IconButton_81DA9978_8D7C_142D_41BE_372F4085D7DD_mobile.toolTip = SHOW FLOORPLANS
+IconButton_81DA9978_8D7C_142D_41BE_372F4085D7DD.toolTip = SHOW FLOORPLANS
+IconButton_81DAA979_8D7C_142F_41BD_1D49E3D0C179.toolTip = SHOW FLOORPLANS
+IconButton_81DAA979_8D7C_142F_41BD_1D49E3D0C179_mobile.toolTip = SHOW FLOORPLANS
+IconButton_81DAB979_8D7C_142F_41C6_49F15FE15FF0_mobile.toolTip = SHOW FLOORPLANS
+
+## Tour
+
+### Description
+
+### Title
+tour.name = NE Nutrição Esportiva
